@@ -1,0 +1,3 @@
+#!/bin/sh
+
+git --git-dir="c:\Users\Luigi\Documents\codigos\servidor" --work-tree=" index.html c:\Users\Luigi\Documents\codigos\Luigi\web" checkout -f
